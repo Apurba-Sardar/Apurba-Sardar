@@ -7,7 +7,7 @@
 - [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/apurba-sardar-4789b3247/)](https://www.linkedin.com/in/apurba-sardar-4789b3247/)  [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&link=https://www.facebook.com/apurba.sardar.1800)](https://www.facebook.com/apurba.sardar.1800)  [![Leetcode Badge](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black&link=https://leetcode.com/sardarapurba310/)](https://leetcode.com/sardarapurba310/)  
 
 <!---
-TuhinBar/TuhinBar is a special repository because its `README.md` (this file) appears on your GitHub profile.
+Apurba500 is a special repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to make changes.
 --->
 
