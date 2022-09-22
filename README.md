@@ -29,7 +29,7 @@
 <a href="https://www.linkedin.com/in/apurba-sardar-4789b3247/" target="_blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="apurba" /></a>
 <a href="https://github.com/apurba-sardar" target="_blank"><img align="center" src="https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white" alt="abhinandanraj" /></a>
 <a href="mailto:sardarapurba9@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white" alt="apurba" /></a>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=abhinandanraj&label=Visitors&color=0088cc&style=flat-square" alt="abhinandanraj" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=apurba-sardar&label=Visitors&color=0088cc&style=flat-square" alt="abhinandanraj" /> </p>
 
 ## <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="40"> **Github Stats:**
 
