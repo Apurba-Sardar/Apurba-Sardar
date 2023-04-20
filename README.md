@@ -13,7 +13,7 @@
 - 💬 Ask me about **Javascript, HTML and CSS.**
 
 <p align="center">
-   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=apurba-sardar&theme=radical&hide_border=true"/>
+   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Apurba-Sardar&theme=radical&hide_border=true"/>
 </p>
 
 ## <img src="https://www.mygo.ge/uploads/blog/1584023795.jpg" width="40"> **Languages & Tools:**
