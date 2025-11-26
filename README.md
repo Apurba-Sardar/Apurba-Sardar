@@ -10,7 +10,7 @@
 - 🌱 I’m currently learning **Web Develpment.**
 - 👯 I’m looking to collaborate on **Java and Web Projects.**
 - 👨‍💻 All of my projects are available at <a href="https://github.com/apurba-sardar?tab=repositories" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="apurbasardar" height="30" width="40" /></a>
-- 💬 Ask me about **Javascript, HTML and CSS.**
+- 💬 Ask me about **TECH.**
 
 <p align="center">
    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Apurba-Sardar&theme=radical&hide_border=true"/>
