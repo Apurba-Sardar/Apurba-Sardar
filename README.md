@@ -5,7 +5,7 @@
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> **About Me:**
 
-- 🧑‍💼 Junior Web Developer at BrainyForce
+- 🧑‍💼 IT Manager In Minds Journal Private limited.
 - 🔭 I’m currently working on **Coding Skills.**
 - 🌱 I’m currently learning **Web Develpment.**
 - 👯 I’m looking to collaborate on **Java and Web Projects.**
